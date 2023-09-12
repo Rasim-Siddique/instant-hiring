@@ -1,0 +1,60 @@
+issues:
+
+home page 
+
+1)scroll issue on every large or medium or small devices(all)
+2)all links have no cursor hand 
+3)space issue in banner 
+4)width of gif banner is not according to figma 
+5)nav menu has too space it should less according to figma 
+6)company logos are not applied just box is showing and main box are not centralized
+7)job vacancies has not data just shoiwng remote tab bar data 
+8)Find your next star box are not overlapping in footer 
+9)footer logo is not shwoing 
+10)whole page is not reponsive on every device 
+
+
+about us page 
+1)doesnt have backgroudn image on banner 
+2)doenst have compnaies logo section 
+3)our mission section doesnt have image and it looks quite bad 
+4)Find your next star box are not overlapping in footer
+5)whole page is not reponsive on every device 
+
+
+findtalent page 
+1)logo are not coming on nav
+2)Find your next star box are not overlapping in footer 
+3)whole page is not reponsive on every device 
+4)Find your next star box are not overlapping in footer
+
+
+applytojob page 
+1)form is very down it needs to up 
+2)page is incomplete acco to figma doesnt have footer doesnt have star section and missing  some content in detail 
+3)whole page is not reponsive on every device 
+4)Find your next star box are not overlapping in footer
+
+
+allJobs
+1)this page is incomplete due to filteration on all job , remote job, onsite and hybrid 
+2)whole page is not reponsive on every device 
+3)Find your next star box are not overlapping in footer
+4)whole page is not reponsive on every device 
+
+
+Services page All 4 pages 
+
+1)all 4 services page are static we need to make 1 page and pass paramter then filterared data according to that there 4 pages it must be 1 single page
+
+2)ui is destroying it needs to fix or remake 
+3)whole page is not reponsive on every device 
+3)Find your next star box are not overlapping in footer
+
+
+features
+
+2 new sections are added in figma 
+
+1)in home page
+2)conatct us page 
